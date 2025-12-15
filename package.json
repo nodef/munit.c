@@ -1,0 +1,23 @@
+{
+  "name": "munit.c",
+  "version": "0.4.1",
+  "description": "µnit is a small testing framework for C; Evan Nemerson (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "testing",
+    "framework",
+    "unit test",
+    "munit"
+  ],
+  "homepage": "https://github.com/nodef/munit.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/munit.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/munit.c.git"
+  },
+  "license": "MIT",
+  "main": "munit.h"
+}
